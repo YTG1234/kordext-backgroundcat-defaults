@@ -38,6 +38,7 @@ dependencies {
     }
 
     implementation("com.github.YTG1234", "kordext-backgroundcat-base", "main-SNAPSHOT")
+    testImplementation("com.github.YTG1234", "kordext-backgroundcat-base", "main-SNAPSHOT")
 }
 
 tasks.withType<KotlinCompile> {

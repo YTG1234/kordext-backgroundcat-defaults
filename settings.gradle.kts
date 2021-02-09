@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "ext-base"
+rootProject.name = "ext-defaults"

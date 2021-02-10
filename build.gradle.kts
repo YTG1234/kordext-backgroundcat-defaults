@@ -17,6 +17,7 @@ plugins {
 }
 
 group = "io.github.ytg1234.kordextbackgroundcat"
+version = "1.0.0"
 
 repositories {
 	mavenCentral()
